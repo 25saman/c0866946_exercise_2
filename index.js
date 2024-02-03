@@ -9,7 +9,7 @@ app.get('/C0866946', function (req, res) {
 })
 
 // http://localhost:3000/hello
-app.get('/hello', function (req, res) {
+app.get('/Hello', function (req, res) {
     res.send('<h1>Hello Login</h1>')
   })
 
